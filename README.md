@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanHolanda
 - 👀 I’m interested in Games and technology
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Dart and Flutter
 - 📫 How to reach me ryanholanda08@gmail.com
 
 <!---
