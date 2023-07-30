@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanHolanda
-- 👀 I’m interested in Games and technology
+- 👀 I’m interested in Economy and technology
 - 🌱 I’m currently learning Dart and Flutter
 - 📫 How to reach me ryanholanda08@gmail.com
 
