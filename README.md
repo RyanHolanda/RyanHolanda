@@ -44,6 +44,7 @@
 <!-- BLOG:START -->
 - [Enhancing Security and Efficiency: A Guide to Using ‘ — account’ in Foundry
 ](https://medium.com/@RyanHolanda/enhancing-security-and-efficiency-a-guide-to-using-account-in-foundry-b18a120bb3f2)
+- [Speed Up Your Smart Contract Development in VSCode](https://medium.com/@RyanHolanda/speed-up-your-smart-contract-development-in-vscode-b7eb5b25466c)
 <!-- BLOG:END -->
 
 ### Projects
