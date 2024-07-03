@@ -48,7 +48,7 @@
 <!-- BLOG:END -->
 
 ### Projects
-- [Awesome Solidity Snippets](https://marketplace.visualstudio.com/items?itemName=RyanHolanda.awesome-solidity-snippets&ssr=false#review-details)
+- [Awesome Solidity Snippets](https://marketplace.visualstudio.com/items?itemName=RyanHolanda.awesome-solidity-snippets&ssr=false#overview)
 
 ### GitHub
 
