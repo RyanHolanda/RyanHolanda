@@ -9,6 +9,7 @@
 #### Languages
 <a href="https://soliditylang.org/" target="_blank"><img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="Solidity" width="40" height="40" /></a>
 <a href="https://www.swift.org/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="Swift" width="40" height="40" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
 <a href="https://dart.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" /></a>
 
 #### Smart Contract Development Tools
