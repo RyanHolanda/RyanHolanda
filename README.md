@@ -8,19 +8,23 @@
 
 #### Languages
 <a href="https://soliditylang.org/" target="_blank"><img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="Solidity" width="40" height="40" /></a>
-<a href="https://www.swift.org/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="Swift" width="40" height="40" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
+<a href="https://docs.ton.org/develop/func/overview" target="_blank"><img src="https://tonwhales.gallerycdn.vsassets.io/extensions/tonwhales/func-vscode/1.1.7/1719999375290/Microsoft.VisualStudio.Services.Icons.Default" alt="FunC" width="40" height="40" /></a>
+<a href="https://www.swift.org/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="Swift" width="40" height="40" /></a>
 <a href="https://dart.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" /></a>
 
 #### Smart Contract Development Tools
+##### Ethereum Ecosystem
 <a href="https://hardhat.org/" target="_blank"><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="Solidity" width="40" height="30" /></a>
 <a href="https://book.getfoundry.sh/" target="_blank"><img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="Foundry" width="40" height="40" /></a>
 <a href="https://chain.link/" target="_blank"><img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="40" height="40" /></a>
-<a href="https://metamask.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png" alt="Metamask" width="40" height="40" /></a>
 <a href="https://thirdweb.com/" target="_blank"><img src="https://lw3-teams-logos.s3.us-east-2.amazonaws.com/thirdweb-team-logo" alt="Thirdweb" width="40" height="40" /></a>
 <a href="https://www.openzeppelin.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/20820676?s=280&v=4" alt="OpenZeppelin" width="40" height="40" /></a>
 <a href="https://github.com/crytic/slither" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/0*aF0Wjfbq19pr84u1.jpg" alt="Slither" width="60" height="40" /></a>
 <a href="https://github.com/crytic/echidna" target="_blank"><img src="https://raw.githubusercontent.com/crytic/echidna/master/echidna.png" alt="Slither" width="60" height="40" /></a>
+
+##### TON Ecosystem
+<a href="https://github.com/ton-org/blueprint" target="_blank"><img src="https://raw.githubusercontent.com/ton-org/blueprint/main/logo.svg" alt="Blueprint" height="40" /></a>
 
 #### Front End Tools
 
