@@ -14,7 +14,7 @@
 <a href="https://dart.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" /></a>
 
 #### Smart Contract Development Tools
-##### Ethereum Ecosystem
+#### Ethereum Ecosystem
 <a href="https://hardhat.org/" target="_blank"><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="Solidity" width="40" height="30" /></a>
 <a href="https://book.getfoundry.sh/" target="_blank"><img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="Foundry" width="40" height="40" /></a>
 <a href="https://chain.link/" target="_blank"><img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="40" height="40" /></a>
@@ -23,7 +23,7 @@
 <a href="https://github.com/crytic/slither" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/0*aF0Wjfbq19pr84u1.jpg" alt="Slither" width="60" height="40" /></a>
 <a href="https://github.com/crytic/echidna" target="_blank"><img src="https://raw.githubusercontent.com/crytic/echidna/master/echidna.png" alt="Slither" width="60" height="40" /></a>
 
-##### TON Ecosystem
+#### TON Ecosystem
 <a href="https://github.com/ton-org/blueprint" target="_blank"><img src="https://raw.githubusercontent.com/ton-org/blueprint/main/logo.svg" alt="Blueprint" height="40" /></a>
 
 #### Front End Tools
