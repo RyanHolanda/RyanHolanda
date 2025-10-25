@@ -32,7 +32,7 @@
 <a href="https://developer.apple.com/documentation/swiftui/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40" /></a>
 
 #### Back End Tools
-<a href="https://flutter.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/NestJS-logo-wordmark.svg" alt="NestJS" width="40" height="40" /></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/NestJS-logo-wordmark.svg" alt="NestJS" width="40" height="40" /></a>
 
 #### Design Tools
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
