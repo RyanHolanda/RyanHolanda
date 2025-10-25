@@ -26,6 +26,10 @@
 #### TON Ecosystem
 <a href="https://github.com/ton-org/blueprint" target="_blank"><img src="https://raw.githubusercontent.com/ton-org/blueprint/main/logo.svg" alt="Blueprint" height="40" /></a>
 
+#### Indexers
+<a href="https://envio.dev/" target="_blank"><img src="https://www.alchemy.com/dapps/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Falchemy-website%2Fimage%2Fupload%2Fv1694675571%2Fdapp-store%2Fdapp-logos%2FEnvio.png&w=640&q=75" alt="Envio" width="40" height="40" /></a>
+<a href="https://thegraph.com/" target="_blank"><img src="https://img.cryptorank.io/coins/the_graph1715758872025.png" alt="The Graph" width="40" height="40" /></a>
+
 #### Front End Tools
 
 <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
@@ -55,7 +59,7 @@
 - [Speed Up Your Smart Contract Development in VSCode](https://medium.com/@RyanHolanda/speed-up-your-smart-contract-development-in-vscode-b7eb5b25466c)
 <!-- BLOG:END -->
 
-### Projects
+### Personal Projects
 - [Awesome Solidity Snippets](https://marketplace.visualstudio.com/items?itemName=RyanHolanda.awesome-solidity-snippets&ssr=false#overview)
 
 ### GitHub
