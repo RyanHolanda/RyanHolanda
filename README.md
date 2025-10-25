@@ -15,13 +15,13 @@
 
 #### Smart Contract Development Tools
 #### Ethereum Ecosystem
-<a href="https://hardhat.org/" target="_blank"><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="Solidity" width="40" height="30" /></a>
+<a href="https://hardhat.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hardhat-seeklogo-com.svg" alt="Hardhat" width="40" height="30" /></a>
 <a href="https://book.getfoundry.sh/" target="_blank"><img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="Foundry" width="40" height="40" /></a>
-<a href="https://chain.link/" target="_blank"><img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="40" height="40" /></a>
+<a href="https://chain.link/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKQG7VLkgiQhDj-m-jmXN246LOJEtMaLAjEw&s" alt="Chainlink" width="40" height="40" /></a>
 <a href="https://thirdweb.com/" target="_blank"><img src="https://lw3-teams-logos.s3.us-east-2.amazonaws.com/thirdweb-team-logo" alt="Thirdweb" width="40" height="40" /></a>
 <a href="https://www.openzeppelin.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/20820676?s=280&v=4" alt="OpenZeppelin" width="40" height="40" /></a>
 <a href="https://github.com/crytic/slither" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/0*aF0Wjfbq19pr84u1.jpg" alt="Slither" width="60" height="40" /></a>
-<a href="https://github.com/crytic/echidna" target="_blank"><img src="https://raw.githubusercontent.com/crytic/echidna/master/echidna.png" alt="Slither" width="60" height="40" /></a>
+<a href="https://github.com/crytic/echidna" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqI1QRr6hXqMrIEOt0ze0Lhsa9tctBGOzQ_w&s" alt="Echidna" width="60" height="40" /></a>
 
 #### TON Ecosystem
 <a href="https://github.com/ton-org/blueprint" target="_blank"><img src="https://raw.githubusercontent.com/ton-org/blueprint/main/logo.svg" alt="Blueprint" height="40" /></a>
@@ -30,6 +30,9 @@
 
 <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
 <a href="https://developer.apple.com/documentation/swiftui/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40" /></a>
+
+#### Back End Tools
+<a href="https://flutter.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/NestJS-logo-wordmark.svg" alt="NestJS" width="40" height="40" /></a>
 
 #### Design Tools
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
