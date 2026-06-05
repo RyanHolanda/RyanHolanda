@@ -39,6 +39,8 @@
 
 #### Back End Tools
 <a href="https://nestjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/NestJS-logo-wordmark.svg" alt="NestJS" width="40" height="40" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="PostgreSQL" width="40" height="40" /></a>
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://images.icon-icons.com/2699/PNG/512/cloudflare_logo_icon_170372.png" alt="Cloudflare" width="40" height="40" /></a>
 
 #### Design Tools
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
